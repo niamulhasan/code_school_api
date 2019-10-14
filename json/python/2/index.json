@@ -1,0 +1,11 @@
+[
+    {
+        "id" : 2,
+        "title": "পাইথনে Hello World ও ভেরিয়েবল",
+        "details": "এই টিউটোরিয়ালে আমরা পাইথনে Hello World প্রিন্ট করব ও ভেরিয়েবল এর বেসিক সম্পর্কে জানাব",
+        "thumb": "thumb.jpg",
+        "youtubeURI": "https://www.youtube.com/watch?v=O98zkbsSkJY",
+        "youtubeID": "O98zkbsSkJY",
+        "tags": ["পাইথন ৩", "Hello World", "ভেরিয়েবল", "পাইথন", "বেসিক পাইথন"]
+    }
+]
